@@ -12,7 +12,7 @@ Lancer MongoDB sur votre machine depuis un terminal :
 
 ## Server
 
-Sur un second terminal, exécuter le serveur NodeJS depuis le répertoire du projet :
+Sur un second terminal, exécuter le serveur NodeJS depuis le répertoire du projet (\server):
 
 	node serverCrudMongo.js 
 	
